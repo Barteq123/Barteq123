@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Barteq123
-- 👀 I’m interested in Arduino programming.
-- 🌱 I’m currently improve my C++ skills.
-- 🚩 I'm from Polish and I speak English as much as possible...
+- 👋 Hi, I’m @Barteq123 and I think I'm human
 
 <!---
 Barteq123/Barteq123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
